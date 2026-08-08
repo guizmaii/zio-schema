@@ -40,7 +40,7 @@ object BuildHelper {
   val zioBsonVersion               = "1.0.6"
   val avroVersion                  = "1.12.1"
   val bsonVersion                  = "5.6.2"
-  val zioConstraintlessVersion     = "0.3.3"
+  val zioConstraintlessVersion     = "0.3.9"
   val scalaCollectionCompatVersion = "2.14.0"
   val msgpackVersion               = "0.9.11"
   val jacksonScalaVersion          = "2.20.1"
